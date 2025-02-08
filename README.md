@@ -49,3 +49,5 @@ Explore some of the products and active projects I'm currently working on:
 
 - [LinkedIn](https://www.linkedin.com/in/mizael-segovia-7ba1a0274/)
 - Email: [mizael@teramont.net](mailto:mizael@teramont.net)
+
+[![MizaelS  Visitors](https://visitor-badge.laobi.icu/badge?page_id=MizaelS.readme.visitor-badge)](https://github.com/MizaelS/) 
