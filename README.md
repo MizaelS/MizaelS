@@ -14,14 +14,14 @@ I'm a passionate Developer, Systems Administrator, Entrepreneur, and Freelancer 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub statistics
 
 [![MizaelS GitHub Stats](https://github-readme-stats.vercel.app/api?username=MizaelS&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MizaelS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured projects
 
 ### Teramont Host
 **CEO, Founder, and Owner** of [Teramont Host](https://www.teramont.net/).  
@@ -37,7 +37,7 @@ Teramont Host is a leading provider of hosting solutions and cloud services. It 
 
 ---
 
-## 📁 My Products
+## 📁 My products
 
 Explore some of the products and active projects I'm currently working on:
 - [View Products on Built By Bit](https://builtbybit.com/creators/velta-studios.321762)
@@ -45,7 +45,7 @@ Explore some of the products and active projects I'm currently working on:
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/mizael-segovia-7ba1a0274/)
 - Email: [mizael@teramont.net](mailto:mizael@teramont.net)
